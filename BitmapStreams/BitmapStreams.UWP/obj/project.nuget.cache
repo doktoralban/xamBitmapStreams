@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "nkLo2UbSb8+x21otriTNkrUBataKKunN2pZqBSphraMNT2KvAgWAKkJPSy0S5KE8yv9CagFZXmEvbhznxN/vfQ==",
+  "success": true,
+  "projectFilePath": "C:\\prjS\\_xamarinPrjs\\BitmapStreams\\BitmapStreams\\BitmapStreams.UWP\\BitmapStreams.UWP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.net.native.compiler\\2.0.2\\microsoft.net.native.compiler.2.0.2.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.net.native.sharedlibrary-arm\\2.0.0\\microsoft.net.native.sharedlibrary-arm.2.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.net.native.sharedlibrary-x64\\2.0.0\\microsoft.net.native.sharedlibrary-x64.2.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.net.native.sharedlibrary-x86\\2.0.0\\microsoft.net.native.sharedlibrary-x86.2.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.net.uwpcoreruntimesdk\\2.1.1\\microsoft.net.uwpcoreruntimesdk.2.1.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.universalwindowsplatform\\6.0.6\\microsoft.netcore.universalwindowsplatform.6.0.6.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\netstandard.library\\2.0.1\\netstandard.library.2.0.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\runtime.win10-arm-aot.microsoft.netcore.universalwindowsplatform\\6.0.6\\runtime.win10-arm-aot.microsoft.netcore.universalwindowsplatform.6.0.6.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\\2.1.1\\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk.2.1.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\runtime.win10-arm.microsoft.netcore.universalwindowsplatform\\6.0.6\\runtime.win10-arm.microsoft.netcore.universalwindowsplatform.6.0.6.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\runtime.win10-x64-aot.microsoft.netcore.universalwindowsplatform\\6.0.6\\runtime.win10-x64-aot.microsoft.netcore.universalwindowsplatform.6.0.6.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\\2.1.1\\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk.2.1.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\\6.0.6\\runtime.win10-x64.microsoft.netcore.universalwindowsplatform.6.0.6.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\runtime.win10-x86-aot.microsoft.netcore.universalwindowsplatform\\6.0.6\\runtime.win10-x86-aot.microsoft.netcore.universalwindowsplatform.6.0.6.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\\2.1.1\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk.2.1.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\\6.0.6\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform.6.0.6.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\xamarin.forms\\3.1.0.637273\\xamarin.forms.3.1.0.637273.nupkg.sha512"
+  ],
+  "logs": []
+}

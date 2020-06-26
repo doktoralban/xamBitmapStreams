@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XYvstRoT0nxcavwzRhn/JroiFzqlij7mCSDNE0Gkha4hF7sS5SBHcJndMJanuZqoKD6+Ie1vEGJIOxX/t6CB7A==",
+  "success": true,
+  "projectFilePath": "C:\\prjS\\_xamarinPrjs\\BitmapStreams\\BitmapStreams\\BitmapStreams.iOS\\BitmapStreams.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\xamarin.forms\\3.1.0.637273\\xamarin.forms.3.1.0.637273.nupkg.sha512"
+  ],
+  "logs": []
+}
